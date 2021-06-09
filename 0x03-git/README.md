@@ -1,2 +1,2 @@
-# Título
-Readme de las carpeta creada
+#Titulo
+README.md de carpeta creada
